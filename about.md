@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I am a second-year PhD student in UT Austin. Now I am working hard at both my course work and my research.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sudonohup@gmail.com](mailto:sudonohup@gmail.com)
